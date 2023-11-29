@@ -1,1 +1,2 @@
 This made conflict and it is solved
+The conflict happens only if it is merged with default branch. Have to check this.

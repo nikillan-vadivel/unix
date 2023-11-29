@@ -1,3 +1,0 @@
-This is to make check conflict
-This is in featurev2 and i'm going to merge it with feature
-To check if credential helper works
